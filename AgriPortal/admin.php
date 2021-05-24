@@ -7,7 +7,7 @@ if(!isset($_SESSION["adminid"]))
 }
 if($_SESSION["randnumber"]  == $_POST["randnumber"])
 {
-	if(isset($_POST["submit"]))
+	if(isset($_POST["submit"]))  
 	{
 		if(isset($_GET["editid"]))
 		{
