@@ -17,5 +17,10 @@ Customers can buy products through online. The customer can send purchase reques
 <br/>*Worker*  
 Workers can receive various work requests from multiple farmers and they can also reject or approve a request depending upon their interest.  
 
-![customer login](https://user-images.githubusercontent.com/83111706/119304318-b5fe9f00-bc84-11eb-97dc-b9b8d5a7630f.PNG)
+<p float="left">
+  <img src="![customer login](https://user-images.githubusercontent.com/83111706/119304318-b5fe9f00-bc84-11eb-97dc-b9b8d5a7630f.PNG)" width="100" />
+  <img src="/img2.png" width="100" /> 
+  <img src="/img3.png" width="100" />
+</p>
+
 
