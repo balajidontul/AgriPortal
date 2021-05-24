@@ -19,8 +19,8 @@ Workers can receive various work requests from multiple farmers and they can als
 
 
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![customer login](https://user-images.githubusercontent.com/83111706/119304318-b5fe9f00-bc84-11eb-97dc-b9b8d5a7630f.PNG)  |  ![](https://...Ocean.png)
+customer login            |  Farmer login          |  Solarized Ocean         
+:-------------------------:|:-------------------------:|:-------------------------:
+![customer login](https://user-images.githubusercontent.com/83111706/119304318-b5fe9f00-bc84-11eb-97dc-b9b8d5a7630f.PNG)  |  ![Farmer login (1)](https://user-images.githubusercontent.com/83111706/119304776-5f459500-bc85-11eb-8e65-abb90bdaa986.PNG)
 
 
