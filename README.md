@@ -10,7 +10,7 @@ The main objective of developing application is to help farmers by providing all
 
   *Administrators*
 Administrators are the ones who can add or administer the categories for the products, and administers the all website information’s. Administrator has full privilege of the website.  <br />
-*Sellers*
+<br/>*Sellers*
 Sellers are the farmers and they can sell their productions through online after the registration. After the registration the farmers can login to the system by entering login id and password  
   *Customer*
 Customers can buy products through online. The customer can send purchase request to check the quality of the products.  
