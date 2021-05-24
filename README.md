@@ -8,11 +8,11 @@ The main objective of developing application is to help farmers by providing all
 
 **There are 4 kinds of users for the proposed system.**
 
-**Administrators**
+**Administrators**    
 Administrators are the ones who can add or administer the categories for the products, and administers the all website information’s. Administrator has full privilege of the website.
-**Sellers** 
+**Sellers**   
 Sellers are the farmers and they can sell their productions through online after the registration. After the registration the farmers can login to the system by entering login id and password
-**Customer**
+**Customer**  
 Customers can buy products through online. The customer can send purchase request to check the quality of the products.
-**Worker**
+**Worker**  
 Workers can receive various work requests from multiple farmers and they can also reject or approve a request depending upon their interest.
